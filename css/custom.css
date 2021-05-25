@@ -1,0 +1,11 @@
+@font-face {
+    font-family: din-regular;
+    src: url(/font/DIN-Regular.ttf);
+  }
+
+@font-face {
+    font-family: din-bold;
+    src: url(/font/DIN\ Alternate\ Bold.ttf);
+}
+
+  
