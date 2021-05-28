@@ -8,8 +8,8 @@
     src: url(/font/DIN\ Alternate\ Bold.ttf);
 }
 
-@media only screen and (min-width: 458px) {
-
+/* @media only screen and (min-width: 458px) {
+} */
   #herodesktop{
     background-image: url(/imagenes/hero-heolico.jpg);
     background-size: cover;
@@ -26,4 +26,3 @@
     position: relative;
     top: -15%;
   }
-}
