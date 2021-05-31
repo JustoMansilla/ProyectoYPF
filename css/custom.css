@@ -86,16 +86,16 @@
   #bajadamobile{
    
     line-height: normal;
-    padding: 10%;
   }
   #molinosmobile{
-   
-    padding: 10%;
+   padding-bottom: 5%;
+   padding-right: 5%;
+    padding-left: 5%;
     line-height: normal;
   }
   #numeritosmobile{
    
-    padding: 10%;
+    padding: 5%;
     line-height: normal;
   }
 
