@@ -29,7 +29,17 @@
   #linea{
     display: none;
   }
+  #bajadamobile{
+    display: none;
+  }
+  #molinosmobile{
+    display: none;
+  }
+  #numeritosmobile{
+    display: none;
+  }
 }
+
 
 @media only screen and (max-width: 458px) {
 
@@ -48,8 +58,16 @@
   #break{
     display: none;
   }
-
+  #bajadadesktop{
+    display: none;
+  }
   #espacio{
+    display: none;
+  }
+  #molinosdesk{
+    display: none;
+  }
+  #numeritosdesk{
     display: none;
   }
   #bajada{
