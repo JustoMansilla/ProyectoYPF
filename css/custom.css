@@ -52,5 +52,18 @@
   #espacio{
     display: none;
   }
+  #bajada{
+    color: black !important;
+  }
+  #luz{
+    color: #fff !important;
+  }
+  #operaciones{
+    color: #fff !important;
+  }
+  #numeritos{
+    color: black !important;
+  }
+
 
 }
