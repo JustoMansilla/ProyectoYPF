@@ -38,6 +38,26 @@
   #numeritosmobile{
     display: none;
   }
+  
+  #bajada{
+    color: #fff !important;
+  }
+  #luz{
+    color: #fff !important;
+  }
+  #operaciones{
+    color: #fff !important;
+    line-height: normal;
+    text-align: center;
+  }
+  #optit{
+    color: #fff !important;
+    line-height: normal;
+    text-align: center !important;
+  }
+  #numeritos{
+    color: #fff !important;
+  }
 }
 
 
@@ -71,7 +91,7 @@
     display: none;
   }
   #bajada{
-    color: black !important;
+    color: #fff !important;
   }
   #luz{
     color: #fff !important;
@@ -81,7 +101,7 @@
     line-height: normal;
   }
   #numeritos{
-    color: black !important;
+    color: #fff !important;
   }
   #bajadamobile{
    
